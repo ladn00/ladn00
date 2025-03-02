@@ -1,16 +1,28 @@
-## Hi there 👋
+# C#-Разработчик
 
-<!--
-**ladn00/ladn00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Навыки и технологии
 
-Here are some ideas to get you started:
+- **Языки программирования**: C#, JavaScript
+- **Фреймворки и платформы**: .NET Framework, .NET Core, ASP.NET MVC, Web API, WPF
+- **СУБД**: MSSQL, PostgreSQL, MySQL
+- **Веб-технологии**: HTML, CSS, JavaScript
+- **Принципы разработки**: ООП, SOLID, паттерны проектирования
+- **Системы контроля версий**: Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Проекты
+
+Здесь вы найдете примеры моих работ и проектов, которые я разрабатывал:
+
+1. **[Музыкальный сервис](https://github.com/ladn00/Beatecho)**
+2. **[ИС для Фотостудии](https://github.com/ladn00/Frame-By-Frame)**
+3. **[Онлайн-библиотека](https://github.com/ladn00/Readify)**
+4. **[Иммитатор кофейного автомата](https://github.com/ladn00/Readify)**
+
+а также другие проекты.
+
+## 📫 Контакты
+
+Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной:
+
+- **Email**: andrej.zuev.2918@mail.ru
+- **Telegram**: @insni
