@@ -16,7 +16,7 @@
 1. **[Музыкальный сервис](https://github.com/ladn00/Beatecho)**
 2. **[ИС для Фотостудии](https://github.com/ladn00/Frame-By-Frame)**
 3. **[Онлайн-библиотека](https://github.com/ladn00/Readify)**
-4. **[Иммитатор кофейного автомата](https://github.com/ladn00/Readify)**
+4. **[Иммитатор кофейного автомата](https://github.com/ladn00/XPresso)**
 
 а также другие проекты.
 
